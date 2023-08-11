@@ -4,15 +4,8 @@ using UnityEngine;
 
 public class GitTest : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void ASDF()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Debug.Log("HIHI");
     }
 }
