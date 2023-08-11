@@ -7,5 +7,6 @@ public class GitTest : MonoBehaviour
     public void ASDF()
     {
         Debug.Log("HIHI");
+        Debug.Log("qpqp");
     }
 }
